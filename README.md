@@ -1,3 +1,4 @@
+![Wordnet Server Banner](BannerWordNet.png)
 # Wordnet Server 🎮
 
 A Java-based socket server that powers a networked game of "Guess the Word", built for an assignment in COMP.
