@@ -1,7 +1,10 @@
-![Wordnet Server Banner](BannerWordNet.png)
-# Wordnet Server 🎮
+# 🎯 Wordnet Server – Java Socket Game
 
-A Java-based socket server that powers a networked game of "Guess the Word", built for an assignment in COMP.
+A Java-based socket server that powers a networked game of **"Guess the Word"**, built as part of a COMP assignment. Players connect via a terminal client, authenticate, and try to guess a hidden word using hints and tracked turns.
+
+📺 **Watch Demo**: [YouTube Video](https://)
+
+![Wordnet Server Screenshot](./screenshot.png)
 
 ## 🔐 Login Credentials
 
