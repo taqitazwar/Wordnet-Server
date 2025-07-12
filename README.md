@@ -2,7 +2,7 @@
 
 A Java-based socket server that powers a networked game of **"Guess the Word"**, built as part of a COMP assignment. Players connect via a terminal client, authenticate, and try to guess a hidden word using hints and tracked turns.
 
-📺 **Watch Demo**: [YouTube Video](https://)
+📺 **Watch Demo**: [YouTube Video](https://www.youtube.com/watch?v=-PH0_Q-QiKM)
 
 ![Wordnet Server Screenshot](./screenshot.png)
 
