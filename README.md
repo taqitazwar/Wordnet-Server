@@ -4,7 +4,7 @@ A Java-based socket server that powers a networked game of **"Guess the Word"**,
 
 📺 **Watch Demo**: [YouTube Video](https://www.youtube.com/watch?v=-PH0_Q-QiKM)
 
-![Wordnet Server Screenshot](./screenshot.png)
+![Wordnet Server Screenshot](./BannerWordNet.png)
 
 ## 🔐 Login Credentials
 
