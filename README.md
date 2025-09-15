@@ -1,17 +1,17 @@
-# 🎯 Wordnet Server – Java Socket Game
+# Wordnet Server – Java Socket Game
 
 A Java-based socket server that powers a networked game of **"Guess the Word"**, built as part of a COMP assignment. Players connect via a terminal client, authenticate, and try to guess a hidden word using hints and tracked turns.
 
-📺 **Watch Demo**: [YouTube Video](https://www.youtube.com/watch?v=-PH0_Q-QiKM)
+**Watch Demo**: [YouTube Video](https://www.youtube.com/watch?v=-PH0_Q-QiKM)
 
 ![Wordnet Server Screenshot](./BannerWordNet.png)
 
-## 🔐 Login Credentials
+## Login Credentials
 
 - **Username:** `Sammy`
 - **Password:** `WOOF`
 
-## 🎮 Game Instructions
+## Game Instructions
 
 - Mystery word: `TOPPLE`
 - User inputs guesses via the client
@@ -19,7 +19,7 @@ A Java-based socket server that powers a networked game of **"Guess the Word"**,
 - Case-insensitive, input-validated
 - Turns are counted until correct guess
 
-## 🚀 How to Run
+## How to Run
 
 ### Server
 ```bash
@@ -41,15 +41,14 @@ java BetterClient localhost 12345
 - BufferedReader / PrintWriter
 - Client-server architecture
 
-## ✅ Features
+## Features
 
 ✔️ Auth with 5 tries  
 ✔️ Mystery word logic  
 ✔️ Turn counter  
 ✔️ Input validation  
-✔️ Compatible with `BetterClient.java`
 
-## 📁 File Overview
+## File Overview
 
 | File              | Purpose                      |
 |-------------------|------------------------------|
